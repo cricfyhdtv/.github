@@ -4,7 +4,7 @@ CricFy TV Apk v5.0 is the ultimate app for cricket enthusiasts who want to enjoy
 
 ![CricFy-TV-Apk-3-1024x576](https://github.com/user-attachments/assets/6b63a4ff-0830-4b02-afa7-752046ecfc11)
 |:-------------------------------------------------:|
-[![download-now](https://github.com/user-attachments/assets/250facea-9d8c-484b-84c2-eb077dedc271)(https://cricfyhd.com/) 
+[![download-now](https://github.com/user-attachments/assets/6b1f130f-4c92-4749-aa55-86bc7c72c25e)(https://cricfyhd.com/) 
 |:-------------------------------------------------:|
 | App Name :  Cricfy TV                       |
 | Publisher   : Cricfy TV Team                      |
@@ -25,6 +25,8 @@ CricFy TV Apk v5.0 is the ultimate app for cricket enthusiasts who want to enjoy
 <li>Allow permissions to install apps from unknown sources.</li>
 <li>Wait for the APK file to download.</li>
 </ul>
+
+![Overview-of-CricFy-TV-App](https://github.com/user-attachments/assets/2f28d421-3045-4850-876e-be16cfe00021)
 
 ## How to Install CricFy TV Apk on Android?
 
